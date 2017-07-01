@@ -1,2 +1,2 @@
-# sometimes_deep_sometimes_learning
+# Sometimes deep, Sometimes learning
 A collection of DL experiments and notes
