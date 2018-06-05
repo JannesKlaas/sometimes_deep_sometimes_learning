@@ -4,3 +4,4 @@ numpy
 pillow
 seaborn
 tensorflow
+pytorch
